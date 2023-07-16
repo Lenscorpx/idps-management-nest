@@ -1,8 +1,8 @@
 {
   "name": "idps",
   "version": "0.0.1",
-  "description": "",
-  "author": "",
+  "description": "Small project that aims to register idps sie around Goma",
+  "author": "Lenscorpx",
   "private": true,
   "license": "UNLICENSED",
   "scripts": {
